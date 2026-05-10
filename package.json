@@ -1,0 +1,17 @@
+{
+  "name": "pi-plauder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Custom wake word extension for pi coding agent using openWakeWord + local STT",
+  "author": "Jakob Winkler",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobwinkler/pi-plauder.git"
+  },
+  "keywords": ["pi", "pi-extension", "wake-word", "voice", "stt", "openwakeword"],
+  "pi": {
+    "extensions": ["."]
+  }
+}
